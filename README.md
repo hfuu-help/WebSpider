@@ -7,7 +7,8 @@
 ### python爬虫入门教程(自己写的，欢迎拍砖)：
 
 [一、开始爬虫前的准备工作](http://blog.csdn.net/aaronjny/article/details/77885007)
-**等待更新。**
+
+**后续，等待更新。**
 
 ## 负责人
 [AaronJny](https://github.com/AaronJny)

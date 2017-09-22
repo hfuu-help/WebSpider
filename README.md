@@ -5,9 +5,9 @@
 
 ### python爬虫入门教程(自己写的，欢迎拍砖)：
 
-[一、开始爬虫前的准备工作](http://blog.csdn.net/aaronjny/article/details/77885007)([备用链接](http://blog.aaronjny.cn:8080/archives/25))
+[一、开始爬虫前的准备工作](http://blog.csdn.net/aaronjny/article/details/77885007)([**备用链接**](http://blog.aaronjny.cn:8080/archives/25))
 
-[二、开始一个简单的爬虫](http://blog.csdn.net/aaronjny/article/details/77945329)([备用链接](http://blog.aaronjny.cn:8080/archives/32))
+[二、开始一个简单的爬虫](http://blog.csdn.net/aaronjny/article/details/77945329)([**备用链接**](http://blog.aaronjny.cn:8080/archives/32))
 
 **后续，等待更新。**
 
